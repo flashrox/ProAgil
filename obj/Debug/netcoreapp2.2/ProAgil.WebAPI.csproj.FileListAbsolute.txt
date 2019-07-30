@@ -1,0 +1,14 @@
+E:\dotnetCore\ProAgil.WebAPI\bin\Debug\netcoreapp2.2\ProAgil.WebAPI.deps.json
+E:\dotnetCore\ProAgil.WebAPI\bin\Debug\netcoreapp2.2\ProAgil.WebAPI.runtimeconfig.json
+E:\dotnetCore\ProAgil.WebAPI\bin\Debug\netcoreapp2.2\ProAgil.WebAPI.runtimeconfig.dev.json
+E:\dotnetCore\ProAgil.WebAPI\bin\Debug\netcoreapp2.2\ProAgil.WebAPI.dll
+E:\dotnetCore\ProAgil.WebAPI\bin\Debug\netcoreapp2.2\ProAgil.WebAPI.pdb
+E:\dotnetCore\ProAgil.WebAPI\obj\Debug\netcoreapp2.2\ProAgil.WebAPI.csprojAssemblyReference.cache
+E:\dotnetCore\ProAgil.WebAPI\obj\Debug\netcoreapp2.2\ProAgil.WebAPI.csproj.CoreCompileInputs.cache
+E:\dotnetCore\ProAgil.WebAPI\obj\Debug\netcoreapp2.2\ProAgil.WebAPI.RazorAssemblyInfo.cache
+E:\dotnetCore\ProAgil.WebAPI\obj\Debug\netcoreapp2.2\ProAgil.WebAPI.RazorAssemblyInfo.cs
+E:\dotnetCore\ProAgil.WebAPI\obj\Debug\netcoreapp2.2\ProAgil.WebAPI.AssemblyInfoInputs.cache
+E:\dotnetCore\ProAgil.WebAPI\obj\Debug\netcoreapp2.2\ProAgil.WebAPI.AssemblyInfo.cs
+E:\dotnetCore\ProAgil.WebAPI\obj\Debug\netcoreapp2.2\ProAgil.WebAPI.RazorTargetAssemblyInfo.cache
+E:\dotnetCore\ProAgil.WebAPI\obj\Debug\netcoreapp2.2\ProAgil.WebAPI.dll
+E:\dotnetCore\ProAgil.WebAPI\obj\Debug\netcoreapp2.2\ProAgil.WebAPI.pdb
